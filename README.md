@@ -1,2 +1,2 @@
-# IBM-Course
+# IBM Data Science Professional
 IBM projects
